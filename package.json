@@ -1,0 +1,32 @@
+{
+  "name": "markdown-it-katex",
+  "version": "1.0.0",
+  "description": "The Markdown-it plugin which add support for KaTex, with typescript.",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "test": "echo 'no test at present'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/littlefattie/markdown-it-katex.git"
+  },
+  "keywords": [
+    "Markdown-it",
+    "Markdown-it-plugin",
+    "KaTex"
+  ],
+  "author": "Little Fattie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/littlefattie/markdown-it-katex/issues"
+  },
+  "homepage": "https://github.com/littlefattie/markdown-it-katex#readme",
+  "devDependencies": {
+    "@types/katex": "^0.11.1",
+    "@types/markdown-it": "^12.2.3"
+  },
+  "dependencies": {
+    "katex": "^0.15.1"
+  }
+}
