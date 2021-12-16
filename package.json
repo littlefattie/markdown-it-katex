@@ -4,6 +4,7 @@
   "description": "The Markdown-it plugin which add support for KaTex, with typescript.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
+  "type": "module",
   "scripts": {
     "build": "tsc",
     "test": "echo 'no test at present'"
