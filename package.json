@@ -1,6 +1,6 @@
 {
   "name": "@littlefattie/markdown-it-katex",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "The Markdown-it plugin which add support for KaTex, with typescript.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
